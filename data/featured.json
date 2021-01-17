@@ -1,0 +1,72 @@
+[
+  {
+    "id": 16,
+    "title": "Motocicleta SUPER-SPORT",
+    "quote": "Model: HONDA CBR 600 RR",
+    "imageUrl": "images/cbr600rr.png",
+    "storeName": " ",
+    "storeAvatarUrl": " ",
+    "price": " ",
+    "category": "HOME"
+  },
+  {
+    "id": 12,
+    "title": "Pentru 16 ani",
+    "quote": "MODEL: Yamaha YZF R125",
+    "imageUrl": "images/yzf125.png",
+    "storeName": " ",
+    "storeAvatarUrl": " ",
+    "price": " ",
+    "category": "categoria a1"
+  },
+  {
+    "id": 6,
+    "title": "Original Sunnies For U",
+    "quote": "Leave the tunnel and the rain is fallin amazing things happen when you wait",
+    "imageUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/chucks.png",
+    "storeName": "Sandra’s shop",
+    "storeAvatarUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/sandra-adams.jpg",
+    "price": "$300",
+    "category": "Fashion"
+  },
+  {
+    "id": 17,
+    "title": "Folding Chair",
+    "quote": "Leave the tunnel and the rain is fallin amazing things happen when you wait",
+    "imageUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/lawn_chair.png",
+    "storeName": "Stella’s shop",
+    "storeAvatarUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/16c477b.jpg",
+    "price": "$300",
+    "category": "Furniture"
+  },
+  {
+    "id": 18,
+    "title": "Better wearing heels",
+    "quote": "Leave the tunnel and the rain is fallin amazing things happen when you wait",
+    "imageUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/heels.png",
+    "storeName": "Peter’s shop",
+    "storeAvatarUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/peter-carlsson.png",
+    "price": "$300",
+    "category": "Beauty"
+  },
+  {
+    "id": 3,
+    "title": "Red Popsicle",
+    "quote": "Leave the tunnel and the rain is fallin amazing things happen when you wait",
+    "imageUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/popsicle.png",
+    "storeName": "Trevor’s shop",
+    "storeAvatarUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/zach.jpg",
+    "price": "$300",
+    "category": "Food"
+  },
+  {
+    "id": 10,
+    "title": "Best gift for the traveler",
+    "quote": "Leave the tunnel and the rain is fallin amazing things happen when you wait",
+    "imageUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/backpack.png",
+    "storeName": "Sandra’s shop",
+    "storeAvatarUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/sandra-adams.jpg",
+    "price": "$300",
+    "category": "Travel"
+  }
+]
