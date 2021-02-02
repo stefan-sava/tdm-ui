@@ -274,9 +274,10 @@ Polymer({
       value: function() {
         return [
           'home',
+          'categoria am',
           'categoria a1',
-          'Categoria A2',
-          'Categoria A'
+          'categoria a2',
+          'categoria a'
         ];
       }
     },

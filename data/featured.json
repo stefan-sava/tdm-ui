@@ -21,33 +21,33 @@
   },
   {
     "id": 6,
-    "title": "Original Sunnies For U",
-    "quote": "Leave the tunnel and the rain is fallin amazing things happen when you wait",
-    "imageUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/chucks.png",
-    "storeName": "Sandra’s shop",
-    "storeAvatarUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/sandra-adams.jpg",
-    "price": "$300",
-    "category": "Fashion"
+    "title": "Doua roti cu permis de categoria B",
+    "quote": "Scooter 50cc",
+    "imageUrl": "images/scooter.png",
+    "storeName": " ",
+    "storeAvatarUrl": " ",
+    "price": " ",
+    "category": "categoria am"
   },
   {
     "id": 17,
-    "title": "Folding Chair",
-    "quote": "Leave the tunnel and the rain is fallin amazing things happen when you wait",
-    "imageUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/lawn_chair.png",
-    "storeName": "Stella’s shop",
-    "storeAvatarUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/16c477b.jpg",
-    "price": "$300",
-    "category": "Furniture"
+    "title": "Putere redusa dar aspect mentinut",
+    "quote": "Honda CBR 500 R",
+    "imageUrl": "images/cbr500r.png",
+    "storeName": " ",
+    "storeAvatarUrl": "h ",
+    "price": " ",
+    "category": "categoria a2"
   },
   {
-    "id": 18,
-    "title": "Better wearing heels",
-    "quote": "Leave the tunnel and the rain is fallin amazing things happen when you wait",
-    "imageUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/heels.png",
-    "storeName": "Peter’s shop",
-    "storeAvatarUrl": "https://www.gstatic.com/angular/material-adaptive/shrine/peter-carlsson.png",
-    "price": "$300",
-    "category": "Beauty"
+    "id": 16,
+    "title": "Practic o motocicleta de curse",
+    "quote": "Model: HONDA CBR 600 RR",
+    "imageUrl": "images/cbr600rr.png",
+    "storeName": " ",
+    "storeAvatarUrl": " ",
+    "price": " ",
+    "category": "categoria a"
   },
   {
     "id": 3,
